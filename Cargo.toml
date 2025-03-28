@@ -1,5 +1,5 @@
 [package]
-name = "wgpu_test"
+name = "mario"
 version = "0.1.0"
 edition = "2024"
 
@@ -7,3 +7,10 @@ edition = "2024"
 wgpu = "24.0.1"
 winit = "0.30.9"
 pollster = "0.4.0"
+log = "0.4"
+env_logger = "0.11.6"
+anyhow = "1.0.97"
+image = "0.25.5"
+bytemuck = "1.22.0"
+glam = "0.30.1"
+
